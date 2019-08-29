@@ -1,0 +1,11 @@
+[package]
+name = "conllx-hash-disjoin"
+version = "0.1.0"
+authors = ["twuebi <tobias.puetz@student.uni-tuebingen.de>"]
+edition = "2018"
+
+[dependencies]
+stdinout = "0.4"
+clap = "2"
+conllx = "0.11"
+twox-hash = "1.5.0"
